@@ -2,7 +2,7 @@
 
 Comments to scalespeeder@gmail.com
 
-Please check out 
+Please check out https://www.youtube.com/ScalespeederGaming
 
 To update your Dr Jones Trader to include 1.18 additions, if you have a completely vanilla (no other mods / additions) setup,
  simply upload the included TraderConfig.txt file over the exisiting file inside your Servers Trader folder, which will be in
